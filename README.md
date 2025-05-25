@@ -12,8 +12,8 @@ Elist's database structure as seen below consists of four tables: orders, custom
 ![image](https://github.com/user-attachments/assets/b357f973-e572-4559-a8d9-0778e90058af)
 
 Notes:
-- Focus on sales, average order value (AOV), and order count for growth rates
-- For loyalty program performance, also look at average order value
+- Focus on sales, average order value (AOV), and order count for growth rates.
+- For loyalty program performance, look at sales, order count, and average order value as north star metrics.
 - For refunds and average order value, would like to focus on how these metrics compare across Apple products. Also include number of refunds as a metric.
   
 # Deep-Dive Insights
