@@ -22,12 +22,9 @@ Body text
 ## Sales Trends
 ![image](https://github.com/user-attachments/assets/aaea3cf1-2b7a-4e21-b496-4a8024f823ce)
 
-![image](https://github.com/user-attachments/assets/bfd4ebe3-1e7a-4a18-a6c7-f2d40b589634)
-
-
-
-
 
 ## Product Trends
+![image](https://github.com/user-attachments/assets/bfd4ebe3-1e7a-4a18-a6c7-f2d40b589634)
+
 ## Loyalty Program
 ## Refund rates
