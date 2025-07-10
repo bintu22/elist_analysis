@@ -20,23 +20,32 @@ Notes:
 Body text
 
 ## Sales Trends
+Peak Covid-19 years can be defined as March 2020 through September 
+
 ![image](https://github.com/user-attachments/assets/aaea3cf1-2b7a-4e21-b496-4a8024f823ce)
 
 <img width="1572" height="382" alt="image" src="https://github.com/user-attachments/assets/b6560a35-7bed-4369-b39a-2fed17ab2806" />
 
+<img width="420" height="302" alt="image" src="https://github.com/user-attachments/assets/f4902a23-2b73-4461-8200-e606b95d5a74" />
 
 ## Regional Trends
-
+Across regions, orders took 7.5 days to deliver with little variaion between regions. 
 <img width="1602" height="242" alt="image" src="https://github.com/user-attachments/assets/a35f5e79-25ab-4126-9686-ee0c34f8f69b" />
 
 
-
 ## Product Trends
+Within each region, Apple Airpods Headphones were the most popular product sold. Overall, Apple Airpods Headphones comprised 45% of orders and contributed to 28% of Sales. The 27in 4K gaming monitor comprised 22% of orders but contributed to 35% of sales. 
+
 ![image](https://github.com/user-attachments/assets/bfd4ebe3-1e7a-4a18-a6c7-f2d40b589634)
 
 <img width="1720" height="384" alt="image" src="https://github.com/user-attachments/assets/214a0b5d-fd5b-41d8-a14f-b97a42461246" />
 
 
-
 ## Loyalty Program
+On avergage, Loyalty Program Members take less time to make a purchase after creating an account than Non-Loyalty Program members (1.6 months vs 2.3 months). 
+
 <img width="1928" height="474" alt="image" src="https://github.com/user-attachments/assets/ab008f95-507b-4f56-983b-ee90b87e7bb7" />
+
+## Recommendations
+
+
