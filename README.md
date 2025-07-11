@@ -41,7 +41,8 @@ Within each region, Apple Airpods Headphones were the most popular product sold.
 
 
 ## Loyalty Program
-On avergage, Loyalty Program Members take less time to make a purchase after creating an account than Non-Loyalty Program members (1.6 months vs 2.3 months). 
+On average, Loyalty Program Members take less time to make a purchase after creating an account than Non-Loyalty Program members (1.6 months vs 2.3 months). 
+<img width="1430" height="602" alt="image" src="https://github.com/user-attachments/assets/26a77902-d925-4ffb-81d1-fc266ce60883" />
 
 <img width="1928" height="474" alt="image" src="https://github.com/user-attachments/assets/ab008f95-507b-4f56-983b-ee90b87e7bb7" />
 
