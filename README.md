@@ -28,7 +28,9 @@ Peak Covid-19 years can be defined as March 2020 through September    . This coi
 <img width="420" height="302" alt="image" src="https://github.com/user-attachments/assets/f4902a23-2b73-4461-8200-e606b95d5a74" />
 
 ## Regional Trends
-NA contributed the most towards sales, at 52%. Although APAC only contributed 13% of sales, the AOV was the highest amongst the regions at $279. Since APAC consumers are high-value customers, this could present an opportunity to improve sales in APAC by increasingly marketing through channels that consumers in APAC engage with and and promoting products that would be popular there. Across regions, orders took 7.5 days to deliver with little variaion between regions. 
+NA contributed the most towards sales, at 52%. Although APAC only contributed 13% of sales, the AOV was the highest amongst the regions at $279. Since APAC consumers are high-value customers, this could present an opportunity to improve sales in APAC. The top 3 countries in APAC sales were Japan ($1,030,020), Australia ($974,831), and ($343,143). Since Australia is underperforming relative to other countries in APAC with AOV of $204 compared to the region's overall AOV of $279, there could me an opportunity to improve AOV in Australia.
+
+Across regions, orders took 7.5 days to deliver with little variaion between regions. 
 <img width="1602" height="242" alt="image" src="https://github.com/user-attachments/assets/a35f5e79-25ab-4126-9686-ee0c34f8f69b" />
 
 
@@ -47,5 +49,6 @@ On average, Loyalty Program Members take less time to make a purchase after crea
 <img width="1928" height="474" alt="image" src="https://github.com/user-attachments/assets/ab008f95-507b-4f56-983b-ee90b87e7bb7" />
 
 ## Recommendations
-*  **Market towards high value customers in APAC since they have the highest AOV of all the regions.** Historically, direct and email channels have been responsible for driving the most sales in this region. However, social media and affiliate chanels drove the highest AOV in 2022. I'd recommend increased marketing through these channels to increase sales amongst high value customers in APAC.
+*  **Market towards high value customers in APAC since they have the highest AOV of all the regions.** Historically, direct and email channels have been responsible for driving the most sales in this region. However, social media and affiliate chanels drove the highest AOV in 2022. I'd recommend increased marketing through these channels to increase sales amongst high value customers in APAC. I'd also suggest utilizing ads customized to local markets and marketing products that would be popular there. Additionally, I'd suggest looking to improve AOV in Australia, through methods like promotions of more expensive products. Australia is the 2nd best selling country in APAC but has a below regional average AOV. Improving AOV in Australia will increase the aggregate AOV across all regions.
+*  **Product team should consider deprecating the Bose Soundsport Headphones entirely** since only 27 headphones were ordered during this time period and contributed < 1% towards overall sales. The budget and resources can be allocated towards better performing products.
 
