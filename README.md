@@ -17,10 +17,9 @@ Notes:
 - For refunds and average order value, would like to focus on how these metrics compare across Apple products. Also include number of refunds as a metric.
   
 # Deep-Dive Insights
-Body text
 
-## Sales Trends
-Peak Covid-19 years can be defined as March 2020 through September 
+## Seasonal Sales Trends
+Peak Covid-19 years can be defined as March 2020 through September    . This coincides with the significant rise in Elist sales throughout 2020 and eventual decline in 2022. **In December 2020, Elist sales peaked at $1,251,721, compared to their lowest post-pandemic sales month in October 2022 where sales were at $178,294.** Year over year, there was a decline in sales for October, followed by an uptick in sales in November and December. This was likely due to consumers waiting for holiday sales to purchase their items.
 
 ![image](https://github.com/user-attachments/assets/aaea3cf1-2b7a-4e21-b496-4a8024f823ce)
 
@@ -29,7 +28,7 @@ Peak Covid-19 years can be defined as March 2020 through September
 <img width="420" height="302" alt="image" src="https://github.com/user-attachments/assets/f4902a23-2b73-4461-8200-e606b95d5a74" />
 
 ## Regional Trends
-Across regions, orders took 7.5 days to deliver with little variaion between regions. 
+NA contributed the most towards sales, at 52%. Although APAC only contributed 13% of sales, the AOV was the highest amongst the regions at $279. Since APAC consumers are high-value customers, this could present an opportunity to improve sales in APAC by increasingly marketing through channels that consumers in APAC engage with and and promoting products that would be popular there. Across regions, orders took 7.5 days to deliver with little variaion between regions. 
 <img width="1602" height="242" alt="image" src="https://github.com/user-attachments/assets/a35f5e79-25ab-4126-9686-ee0c34f8f69b" />
 
 
