@@ -68,3 +68,4 @@ Based on the Loyalty Program Members' ability to outperform Non-Loyalty Program 
 ## Future Analysis
 * **Compare the following metrics for Loyalty Program Members vs Non-Loyalty Program Members:** Lifetime Value, Churn Rate, Customer Acquisition Cost, Average Order Profit (factoring total costs required to sell products)
 * **Review performance by supplier** to understand trends and find opportunities to optimize on supply based costs.
+* **Analyze site vs app performance** to influence strategy by purchasing channel. Future advertisements, promotions, etc can be aligned based on channel.
