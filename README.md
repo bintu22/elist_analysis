@@ -44,11 +44,16 @@ Within each region, Apple Airpods Headphones were the most popular product sold.
 
 ## Loyalty Program
 On average, Loyalty Program Members take less time to make a purchase after creating an account than Non-Loyalty Program members (1.6 months vs 2.3 months). 
-<img width="1430" height="602" alt="image" src="https://github.com/user-attachments/assets/26a77902-d925-4ffb-81d1-fc266ce60883" />
+
+<img width="1680" height="714" alt="image" src="https://github.com/user-attachments/assets/12d71fea-cc8d-426f-adcf-06c06a015335" />
+
+<img width="1094" height="588" alt="image" src="https://github.com/user-attachments/assets/3dcbf115-1902-41fb-921a-c647a6d2f0b9" />
+
+<img width="1002" height="548" alt="image" src="https://github.com/user-attachments/assets/92fb3d0d-4c7e-48da-824f-8c9041d07817" />
 
 <img width="1928" height="474" alt="image" src="https://github.com/user-attachments/assets/ab008f95-507b-4f56-983b-ee90b87e7bb7" />
 
 ## Recommendations
-*  **Market towards high value customers in APAC since they have the highest AOV of all the regions.** Historically, direct and email channels have been responsible for driving the most sales in this region. However, social media and affiliate chanels drove the highest AOV in 2022. I'd recommend increased marketing through these channels to increase sales amongst high value customers in APAC. I'd also suggest utilizing ads customized to local markets and marketing products that would be popular there. Additionally, I'd suggest looking to improve AOV in Australia, through methods like promotions of more expensive products. Australia is the 2nd best selling country in APAC but has a below regional average AOV. Improving AOV in Australia will increase the aggregate AOV across all regions.
-*  **Product team should consider deprecating the Bose Soundsport Headphones entirely** since only 27 headphones were ordered during this time period and contributed < 1% towards overall sales. The budget and resources can be allocated towards better performing products.
+*  **Marketing Team: towards high value customers in APAC since they have the highest AOV of all the regions.** Historically, direct and email channels have been responsible for driving the most sales in this region. However, social media and affiliate chanels drove the highest AOV in 2022 ($312 and $304, respectively). I'd recommend increased marketing through these channels to increase sales amongst high value customers in APAC. I'd also suggest utilizing ads customized to local markets and marketing products that would be popular there. Additionally, I'd suggest looking to improve AOV in Australia, through methods like promotions of more expensive products. Australia is the 2nd best selling country in APAC but has a below regional average AOV. Improving AOV in Australia will increase the aggregate AOV across all regions.
+*  **Product Team: Consider deprecating the Bose Soundsport Headphones entirely** since only 27 headphones were ordered during this time period and contributed < 1% towards overall sales. The budget and resources can be allocated towards better performing products.
 
