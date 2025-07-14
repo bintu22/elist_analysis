@@ -39,7 +39,7 @@ Within each region, Apple Airpods Headphones were the most popular product sold.
 
 ![image](https://github.com/user-attachments/assets/bfd4ebe3-1e7a-4a18-a6c7-f2d40b589634)
 
-<img width="1720" height="384" alt="image" src="https://github.com/user-attachments/assets/214a0b5d-fd5b-41d8-a14f-b97a42461246" />
+<img width="1896" height="428" alt="image" src="https://github.com/user-attachments/assets/2087be53-b8a4-41c9-b9aa-a09b3e1bf7f0" />
 
 
 ## Loyalty Program
