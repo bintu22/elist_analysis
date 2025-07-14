@@ -31,7 +31,7 @@ Peak Covid-19 years can be defined as March 2020 through late 2021. This coincid
 NA contributed the most towards sales, at 52%. Although APAC only contributed 13% of sales, the AOV was the highest amongst the regions at $279. Since APAC consumers are high-value customers, this could present an opportunity to improve sales in APAC. The top 3 countries in APAC sales were Japan ($1,030,020), Australia ($974,831), and ($343,143). Since Australia is underperforming relative to other countries in APAC with AOV of $204 compared to the region's overall AOV of $279, there could me an opportunity to improve AOV in Australia.
 
 Across regions, orders took 7.5 days to deliver with little variaion between regions. 
-<img width="1602" height="242" alt="image" src="https://github.com/user-attachments/assets/a35f5e79-25ab-4126-9686-ee0c34f8f69b" />
+<img width="1762" height="304" alt="image" src="https://github.com/user-attachments/assets/68f80d1b-15df-4145-abb2-b76259eef93e" />
 
 
 ## Product Trends
