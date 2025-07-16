@@ -19,7 +19,7 @@ Notes:
 # Deep-Dive Insights
 
 ## Seasonal Sales Trends
-Peak Covid-19 years can be defined as March 2020 through late 2021. This coincides with the significant rise in Elist sales throughout 2020 and eventual decline in 2022 when sales began to normalize. **In December 2020, Elist sales peaked at $1,251,721, compared to their lowest post-pandemic sales month in October 2022 where sales were at $178,294.** 
+**In December 2020, Elist sales peaked at $1,251,721, compared to their lowest post-pandemic sales month in October 2022 where sales were at $178,294.** Peak Covid-19 years can be defined as March 2020 through late 2021. This coincides with the significant rise in Elist sales throughout 2020 and eventual decline in 2022 when sales began to normalize. 
 
 ![image](https://github.com/user-attachments/assets/aaea3cf1-2b7a-4e21-b496-4a8024f823ce)
 
