@@ -23,14 +23,16 @@ Notes:
 
 <img width="1498" height="632" alt="image" src="https://github.com/user-attachments/assets/4b4f62b5-eb5b-47ab-8ac6-d1240c32eef4" />
 
+**In 2020, Elist saw an abnormal amount of sales with a 163% growth rate YoY.** This was tied to the 101% order count growth rate and 31% AOV growth rate.
 
 <img width="1858" height="450" alt="image" src="https://github.com/user-attachments/assets/44d99576-cbd8-4f88-98d2-548faa66941b" />
 
+* **The initial peak in sales in March 2020 was driven by a 50% MoM growth rate when consumers purchased remote work realted products.** In March 2020 when the Covid-19 lockdown went into effect, Elist sales grew as workers purchased products to facilitate working from home.
 
-**Year over year, there was a decline in sales for October, followed by an uptick in sales in November and December.** This was likely due to consumers waiting for holiday sales to purchase their items. This pattern was more extreme in October 2022 as Covid-19 levels declined and sales began to normalize.
+* **The YoY pattern of decline in sales for October, followed by an uptick in sales in November and December was more extreme in October 2022 as Covid-19 levels declined and sales began to normalize.** This pattern occurs every year, likely due to consumers waiting for holiday sales to purchase their items. The dip in sales was more drastic as Covid-19 levels declined and fewer remote work related products were purchased by consumers.
 
 
-<img width="420" height="302" alt="image" src="https://github.com/user-attachments/assets/f4902a23-2b73-4461-8200-e606b95d5a74" />
+<img width="954" height="508" alt="image" src="https://github.com/user-attachments/assets/9fc0482d-53d5-42ec-890a-a79448a8a26e" />
 
 ## Regional Trends
 * **Sales Performance:** NA contributed the most towards sales, at 52%. 
