@@ -21,7 +21,7 @@ Notes:
 ## Seasonal Sales Trends
 **In December 2020, Elist sales peaked at $1,251,721, compared to their lowest post-pandemic sales month in October 2022 where sales were at $178,294.** Peak Covid-19 years can be defined as March 2020 through late 2021. This coincides with the significant rise in Elist sales throughout 2020 and eventual decline in 2022 when sales began to normalize. 
 
-<img width="1498" height="632" alt="image" src="https://github.com/user-attachments/assets/4b4f62b5-eb5b-47ab-8ac6-d1240c32eef4" />
+<img width="1514" height="646" alt="image" src="https://github.com/user-attachments/assets/04d26707-0343-485e-8dd8-ef74b0352a4c" />
 
 **In 2020, Elist saw an abnormal amount of sales with a 163% growth rate YoY.** This was tied to the 101% order count growth rate and 31% AOV growth rate.
 
@@ -40,7 +40,7 @@ Notes:
   * **Although APAC only contributed 13% of sales, the AOV was the highest amongst the regions at $279.** Since APAC consumers are high-value customers, this could present an opportunity to improve sales in APAC.
   * **The top 3 countries in APAC sales were Japan ($1,030,020), Australia ($974,831), and ($343,143).** Since Australia is underperforming relative to other countries in APAC with AOV of $204 compared to the region's overall AOV of $279, there could be an opportunity to improve AOV in Australia.
 * **Delivery Performance:** Across regions, orders took 7.5 days to deliver with little variaion between regions. 
-<img width="1762" height="304" alt="image" src="https://github.com/user-attachments/assets/68f80d1b-15df-4145-abb2-b76259eef93e" />
+<img width="1648" height="298" alt="image" src="https://github.com/user-attachments/assets/96d74100-257d-4979-97fa-80f5d39f339c" />
 
 
 ## Product Trends
@@ -58,15 +58,15 @@ Notes:
 ## Loyalty Program
 * **Sales Performance:** Higher for Loyalty Members from April 2021 to Aug 2022
   
-<img width="1286" height="596" alt="image" src="https://github.com/user-attachments/assets/2e2c578a-7932-45c8-a65c-91c3c0a6a5e3" />
+<img width="1430" height="732" alt="image" src="https://github.com/user-attachments/assets/98370f4e-d865-4bf1-a9b5-50801ef51055" />
 
 * **AOV Performance:** Higher for Loyalty Members in Nov 2019, and from June 2021 to Oct 2022
   
-<img width="1274" height="592" alt="image" src="https://github.com/user-attachments/assets/e0ac5197-9254-438c-8922-d9ad9731d5bf" />
+<img width="1562" height="742" alt="image" src="https://github.com/user-attachments/assets/2e538a34-3165-4af5-aeae-5bed3e3552a9" />
 
 * **Order Count Performance:** Higher for Loyalty Members from Jan 2021 to Aug 2022
   
-<img width="1270" height="598" alt="image" src="https://github.com/user-attachments/assets/802a6aa2-30f6-4494-a014-5639fa3ebf02" />
+<img width="1440" height="736" alt="image" src="https://github.com/user-attachments/assets/19353c96-2e07-4929-bee0-849e3520ad36" />
 
 * **Time to Purchase:** On average, Loyalty Program Members take less time to make a purchase after creating an account than Non-Loyalty Program members (1.6 months vs 2.3 months).
 
