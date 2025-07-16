@@ -44,12 +44,12 @@ Notes:
 
 
 ## Product Trends
-* **Sales Performance:** **Elist’s revenue is heavily concentrated, with 96% driven by just four products: the 27" 4K gaming monitor, Apple AirPods, MacBook Air, and ThinkPad laptops.** Apple AirPods lead in volume, making up 45% of orders but only 28% of revenue, while the 27" gaming monitor punches above its weight, contributing 35% of revenue from just 22% of orders. These findings highlight the importance of continuing to promote these high-performing products to sustain market momentum.
+* **Sales Performance: Elist’s revenue is heavily concentrated, with 96% driven by just four products: the 27" 4K gaming monitor, Apple AirPods, MacBook Air, and ThinkPad Laptops.** Apple AirPods lead in volume, making up 45% of orders but only 28% of revenue, while the 27" gaming monitor punches above its weight, contributing 35% of revenue from just 22% of orders. These findings highlight the importance of continuing to promote these high-performing products to sustain market momentum.
 
 <img width="1484" height="744" alt="image" src="https://github.com/user-attachments/assets/d213ae6c-e2e1-42da-aecb-44f18c688ad2" />
 
 
-* **AOV Performance: The AOV is highest for the Macbook Air Laptop and ThinkPad Laptop.** Despite only making up 7% of Elist orders, they contribute to 33% of of sales. Since these products have such a high AOV, it could be worth investigating why their refund rates are double the average of other products.
+* **AOV Performance: MacBook Air and ThinkPadLlaptops drove the highest AOV at over $1,000, while the Samsung Charging Cable Pack had the lowest AOV at just $20**—highlighting a wide value range across Elist’s product portfolio. Despite only making up 7% of Elist orders, the MacBook Air and ThinkPad Laptops contribute to 33% of of sales. Since these products have such a high AOV, it could be worth investigating why their refund rates are double the average of other products.
 * **Order Count Performance:** Within each region, Apple Airpods Headphones were the most popular product sold. 48,402 Apple Airphods Headphones were sold, compared to the lowest selling product, Bose Soundsport Headphones, which only had 27 orders.
 
 <img width="1896" height="428" alt="image" src="https://github.com/user-attachments/assets/2087be53-b8a4-41c9-b9aa-a09b3e1bf7f0" />
@@ -71,7 +71,8 @@ Notes:
 * **Time to Purchase:** On average, Loyalty Program Members take less time to make a purchase after creating an account than Non-Loyalty Program members (1.6 months vs 2.3 months).
 
 Based on the Loyalty Program Members' ability to outperform Non-Loyalty Program Members in a number of key metrics, particularly in 2022, I think it's worth continuing the Loyalty Program and monitoring performance closely in the upcoming months. At this time, it doesn't make sense to abandon the Loyalty Program despite recent dips. 
-<img width="1928" height="474" alt="image" src="https://github.com/user-attachments/assets/ab008f95-507b-4f56-983b-ee90b87e7bb7" />
+
+<img width="1664" height="448" alt="image" src="https://github.com/user-attachments/assets/ac108ff9-ce0f-4e90-9ada-fce1c1c024ee" />
 
 ## Recommendations
 *  **Marketing team should shift focus towards high value customers in APAC since they have the highest AOV of all the regions.** Historically, direct and email channels have been responsible for driving the most sales in this region. However, social media and affiliate chanels drove the highest AOV in 2022. I'd recommend increased marketing through these channels to increase sales amongst high value customers in APAC. I'd also suggest utilizing ads customized to local markets and marketing products that would be popular there. Additionally, I'd suggest looking to improve AOV in Australia, through methods like promotions of more expensive products. Australia is the 2nd best selling country in APAC but has a below regional average AOV. Improving AOV in Australia will increase the aggregate AOV across all regions. **They should also continue marketing their top revenue driving products**, 27in 4K gaming monitor, Apple Airpods Headphones, Macbook Air Laptop, and ThinkPad Laptop to maintain their market share. Those products makeup 96% of Elist's total revenue. Additionally, the Macbook Air Laptop and ThinkPad Laptop drive the highest AOV ($1,588 and $1,100).
