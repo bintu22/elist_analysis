@@ -21,12 +21,13 @@ Notes:
 ## Seasonal Sales Trends
 **In December 2020, Elist sales peaked at $1,251,721, compared to their lowest post-pandemic sales month in October 2022 where sales were at $178,294.** Peak Covid-19 years can be defined as March 2020 through late 2021. This coincides with the significant rise in Elist sales throughout 2020 and eventual decline in 2022 when sales began to normalize. 
 
-![image](https://github.com/user-attachments/assets/aaea3cf1-2b7a-4e21-b496-4a8024f823ce)
-
-<img width="1572" height="382" alt="image" src="https://github.com/user-attachments/assets/b6560a35-7bed-4369-b39a-2fed17ab2806" />
+<img width="1498" height="632" alt="image" src="https://github.com/user-attachments/assets/4b4f62b5-eb5b-47ab-8ac6-d1240c32eef4" />
 
 
-**Year over year, there was a decline in sales for October, followed by an uptick in sales in November and December.** This was likely due to consumers waiting for holiday sales to purchase their items.
+<img width="1858" height="450" alt="image" src="https://github.com/user-attachments/assets/44d99576-cbd8-4f88-98d2-548faa66941b" />
+
+
+**Year over year, there was a decline in sales for October, followed by an uptick in sales in November and December.** This was likely due to consumers waiting for holiday sales to purchase their items. This pattern was more extreme in October 2022 as Covid-19 levels declined and sales began to normalize.
 
 
 <img width="420" height="302" alt="image" src="https://github.com/user-attachments/assets/f4902a23-2b73-4461-8200-e606b95d5a74" />
@@ -43,7 +44,8 @@ Notes:
 ## Product Trends
 Overall, Apple Airpods Headphones comprised 45% of orders and contributed to 28% of sales. The 27in 4K gaming monitor comprised 22% of orders but contributed to 35% of sales. **96% of Elist's revenue is driven by 27in 4K gaming monitor, Apple Airpods Headphones, Macbook Air Laptop, and ThinkPad Laptop products.** Elist should continue promoting these products to maintain their presence in the market.
 
-![image](https://github.com/user-attachments/assets/bfd4ebe3-1e7a-4a18-a6c7-f2d40b589634)
+<img width="1374" height="504" alt="image" src="https://github.com/user-attachments/assets/5df85e79-1317-4bb6-bbb5-19a3f674ada0" />
+
 
 * **AOV Performance: The AOV is highest for the Macbook Air Laptop and ThinkPad Laptop.** Despite only making up 7% of Elist orders, they contribute to 33% of of sales. Since these products have such a high AOV, it could be worth investigating why their refund rates are double the average of other products.
 * **Order Count Performance:** Within each region, Apple Airpods Headphones were the most popular product sold.
@@ -66,7 +68,7 @@ Overall, Apple Airpods Headphones comprised 45% of orders and contributed to 28%
 
 * **Time to Purchase:** On average, Loyalty Program Members take less time to make a purchase after creating an account than Non-Loyalty Program members (1.6 months vs 2.3 months).
 
-Based on the Loyalty Program Members' ability to outperform Non-Loyalty Program Members in a number of key metrics, I think it's worth continuing the Loyalty Program and monitoring performance closely in the upcoming months. At this time, it doesn't make sense to abandon the Loyalty Program despite recent dips. 
+Based on the Loyalty Program Members' ability to outperform Non-Loyalty Program Members in a number of key metrics, particularly in 2022, I think it's worth continuing the Loyalty Program and monitoring performance closely in the upcoming months. At this time, it doesn't make sense to abandon the Loyalty Program despite recent dips. 
 <img width="1928" height="474" alt="image" src="https://github.com/user-attachments/assets/ab008f95-507b-4f56-983b-ee90b87e7bb7" />
 
 ## Recommendations
