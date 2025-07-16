@@ -19,43 +19,52 @@ Notes:
 # Deep-Dive Insights
 
 ## Seasonal Sales Trends
-Peak Covid-19 years can be defined as March 2020 through late 2021. This coincides with the significant rise in Elist sales throughout 2020 and eventual decline in 2022 when sales began to normalize. **In December 2020, Elist sales peaked at $1,251,721, compared to their lowest post-pandemic sales month in October 2022 where sales were at $178,294.** Year over year, there was a decline in sales for October, followed by an uptick in sales in November and December. This was likely due to consumers waiting for holiday sales to purchase their items.
+Peak Covid-19 years can be defined as March 2020 through late 2021. This coincides with the significant rise in Elist sales throughout 2020 and eventual decline in 2022 when sales began to normalize. **In December 2020, Elist sales peaked at $1,251,721, compared to their lowest post-pandemic sales month in October 2022 where sales were at $178,294.** 
 
 ![image](https://github.com/user-attachments/assets/aaea3cf1-2b7a-4e21-b496-4a8024f823ce)
 
 <img width="1572" height="382" alt="image" src="https://github.com/user-attachments/assets/b6560a35-7bed-4369-b39a-2fed17ab2806" />
 
+
+**Year over year, there was a decline in sales for October, followed by an uptick in sales in November and December.** This was likely due to consumers waiting for holiday sales to purchase their items.
+
+
 <img width="420" height="302" alt="image" src="https://github.com/user-attachments/assets/f4902a23-2b73-4461-8200-e606b95d5a74" />
 
 ## Regional Trends
-NA contributed the most towards sales, at 52%. Although APAC only contributed 13% of sales, the AOV was the highest amongst the regions at $279. Since APAC consumers are high-value customers, this could present an opportunity to improve sales in APAC. The top 3 countries in APAC sales were Japan ($1,030,020), Australia ($974,831), and ($343,143). Since Australia is underperforming relative to other countries in APAC with AOV of $204 compared to the region's overall AOV of $279, there could me an opportunity to improve AOV in Australia.
-
-Across regions, orders took 7.5 days to deliver with little variaion between regions. 
+* **Sales Performance:** NA contributed the most towards sales, at 52%. 
+* **AOV Performance:** **Although APAC only contributed 13% of sales, the AOV was the highest amongst the regions at $279.** Since APAC consumers are high-value customers, this could present an opportunity to improve sales in APAC. The top 3 countries in APAC sales were Japan ($1,030,020), Australia ($974,831), and ($343,143). Since Australia is underperforming relative to other countries in APAC with AOV of $204 compared to the region's overall AOV of $279, there could be an opportunity to improve AOV in Australia.
+* **Delivery Performance:** Across regions, orders took 7.5 days to deliver with little variaion between regions. 
 <img width="1762" height="304" alt="image" src="https://github.com/user-attachments/assets/68f80d1b-15df-4145-abb2-b76259eef93e" />
 
 
 ## Product Trends
-Within each region, Apple Airpods Headphones were the most popular product sold. Overall, Apple Airpods Headphones comprised 45% of orders and contributed to 28% of sales. The 27in 4K gaming monitor comprised 22% of orders but contributed to 35% of sales. 96% of Elist's revenue is driven by 27in 4K gaming monitor, Apple Airpods Headphones, Macbook Air Laptop, and ThinkPad Laptop products. Elist should continue promoting these products to maintain their presence in the market. It's also worth noting the AOV is highest for the Macbook Air Laptop and ThinkPad Laptop. Despite only making up 7% of Elist orders, they contribute to 33% of of sales. Since these products have such a high AOV, it could be worth investigating why their refund rates are double the average of other products.
+Overall, Apple Airpods Headphones comprised 45% of orders and contributed to 28% of sales. The 27in 4K gaming monitor comprised 22% of orders but contributed to 35% of sales. **96% of Elist's revenue is driven by 27in 4K gaming monitor, Apple Airpods Headphones, Macbook Air Laptop, and ThinkPad Laptop products.** Elist should continue promoting these products to maintain their presence in the market.
 
 ![image](https://github.com/user-attachments/assets/bfd4ebe3-1e7a-4a18-a6c7-f2d40b589634)
+
+* **AOV Performance: The AOV is highest for the Macbook Air Laptop and ThinkPad Laptop.** Despite only making up 7% of Elist orders, they contribute to 33% of of sales. Since these products have such a high AOV, it could be worth investigating why their refund rates are double the average of other products.
+* **Order Count Performance:** Within each region, Apple Airpods Headphones were the most popular product sold.
 
 <img width="1896" height="428" alt="image" src="https://github.com/user-attachments/assets/2087be53-b8a4-41c9-b9aa-a09b3e1bf7f0" />
 
 
 ## Loyalty Program
 * **Sales Performance:** Higher for Loyalty Members from April 2021 to Aug 2022
-* **AOV Performance:** Higher for Loyalty Members in Nov 2019, and from June 2021 to Oct 2022
-* **Order Count Performance:** Higher for Loyalty Members from Jan 2021 to Aug 2022
-* **Time to Purchase:** On average, Loyalty Program Members take less time to make a purchase after creating an account than Non-Loyalty Program members (1.6 months vs 2.3 months).
-
-Based on the Loyalty Program Members' ability to outperform Non-Loyalty Program Members in a number of key metrics, I think it's work continuing the Loyalty Program and monitoring performance closely in the upcoming months. At this time, it doesn't make sense to abandon the Loyalty Program despite recent dips. 
-
+  
 <img width="1286" height="596" alt="image" src="https://github.com/user-attachments/assets/2e2c578a-7932-45c8-a65c-91c3c0a6a5e3" />
 
+* **AOV Performance:** Higher for Loyalty Members in Nov 2019, and from June 2021 to Oct 2022
+  
 <img width="1274" height="592" alt="image" src="https://github.com/user-attachments/assets/e0ac5197-9254-438c-8922-d9ad9731d5bf" />
 
+* **Order Count Performance:** Higher for Loyalty Members from Jan 2021 to Aug 2022
+  
 <img width="1270" height="598" alt="image" src="https://github.com/user-attachments/assets/802a6aa2-30f6-4494-a014-5639fa3ebf02" />
 
+* **Time to Purchase:** On average, Loyalty Program Members take less time to make a purchase after creating an account than Non-Loyalty Program members (1.6 months vs 2.3 months).
+
+Based on the Loyalty Program Members' ability to outperform Non-Loyalty Program Members in a number of key metrics, I think it's worth continuing the Loyalty Program and monitoring performance closely in the upcoming months. At this time, it doesn't make sense to abandon the Loyalty Program despite recent dips. 
 <img width="1928" height="474" alt="image" src="https://github.com/user-attachments/assets/ab008f95-507b-4f56-983b-ee90b87e7bb7" />
 
 ## Recommendations
