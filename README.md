@@ -42,13 +42,13 @@ Notes:
 
 
 ## Product Trends
-Overall, Apple Airpods Headphones comprised 45% of orders and contributed to 28% of sales. The 27in 4K gaming monitor comprised 22% of orders but contributed to 35% of sales. **96% of Elist's revenue is driven by 27in 4K gaming monitor, Apple Airpods Headphones, Macbook Air Laptop, and ThinkPad Laptop products.** Elist should continue promoting these products to maintain their presence in the market.
+* **Sales Performance:** **Elist’s revenue is heavily concentrated, with 96% driven by just four products: the 27" 4K gaming monitor, Apple AirPods, MacBook Air, and ThinkPad laptops.** Apple AirPods lead in volume, making up 45% of orders but only 28% of revenue, while the 27" gaming monitor punches above its weight, contributing 35% of revenue from just 22% of orders. These findings highlight the importance of continuing to promote these high-performing products to sustain market momentum.
 
-<img width="1374" height="504" alt="image" src="https://github.com/user-attachments/assets/5df85e79-1317-4bb6-bbb5-19a3f674ada0" />
+<img width="1484" height="744" alt="image" src="https://github.com/user-attachments/assets/d213ae6c-e2e1-42da-aecb-44f18c688ad2" />
 
 
 * **AOV Performance: The AOV is highest for the Macbook Air Laptop and ThinkPad Laptop.** Despite only making up 7% of Elist orders, they contribute to 33% of of sales. Since these products have such a high AOV, it could be worth investigating why their refund rates are double the average of other products.
-* **Order Count Performance:** Within each region, Apple Airpods Headphones were the most popular product sold.
+* **Order Count Performance:** Within each region, Apple Airpods Headphones were the most popular product sold. 48,402 Apple Airphods Headphones were sold, compared to the lowest selling product, Bose Soundsport Headphones, which only had 27 orders.
 
 <img width="1896" height="428" alt="image" src="https://github.com/user-attachments/assets/2087be53-b8a4-41c9-b9aa-a09b3e1bf7f0" />
 
