@@ -23,7 +23,7 @@ Notes:
 
 <img width="1514" height="646" alt="image" src="https://github.com/user-attachments/assets/04d26707-0343-485e-8dd8-ef74b0352a4c" />
 
-**In 2020, Elist saw an abnormal amount of sales with a 163% growth rate YoY.** This was tied to the 101% order count growth rate and 31% AOV growth rate.
+**In 2020, Elist experienced an exceptional 163% year-over-year sales growth, with revenue jumping from $3.87M in 2019 to $10.16M.** This surge was driven by a 101% increase in order volume and a 31% rise in average order value—largely influenced by pandemic-related demand shifts.
 
 <img width="1858" height="450" alt="image" src="https://github.com/user-attachments/assets/44d99576-cbd8-4f88-98d2-548faa66941b" />
 
@@ -35,7 +35,7 @@ Notes:
 <img width="954" height="508" alt="image" src="https://github.com/user-attachments/assets/9fc0482d-53d5-42ec-890a-a79448a8a26e" />
 
 ## Regional Trends
-* **Sales Performance:** NA contributed the most towards sales, at 52%. 
+* **Sales Performance:** NA led with 52% of total sales, while LATAM contributed just 6% towards total sales. This range highlights a strong regional imbalance in sales performance.
 * **AOV Performance:**
   * **Although APAC only contributed 13% of sales, the AOV was the highest amongst the regions at $279.** Since APAC consumers are high-value customers, this could present an opportunity to improve sales in APAC.
   * **The top 3 countries in APAC sales were Japan ($1,030,020), Australia ($974,831), and ($343,143).** Since Australia is underperforming relative to other countries in APAC with AOV of $204 compared to the region's overall AOV of $279, there could be an opportunity to improve AOV in Australia.
@@ -53,19 +53,20 @@ Notes:
 * **AOV Performance: MacBook Air and ThinkPad Laptops drove the highest AOV at over $1,000, while the Samsung Charging Cable Pack had the lowest AOV at just $20**—highlighting a wide value range across Elist’s product portfolio. Despite only making up 7% of Elist orders, the MacBook Air and ThinkPad Laptops contribute to 33% of of sales. Since these products have such a high AOV, it could be worth investigating why their refund rates are double the average of other products.
 * **Order Count Performance: Within each region, Apple Airpods Headphones were the most popular product sold.** 48,402 Apple Airphods Headphones were sold, compared to the lowest selling product, Bose Soundsport Headphones, which only had 27 orders.
 
-<img width="1732" height="386" alt="image" src="https://github.com/user-attachments/assets/853ac5e9-8692-404f-bda8-928fda5d340e" />
+<img width="1734" height="390" alt="image" src="https://github.com/user-attachments/assets/9ab52d62-58f6-40a2-83d9-bb09187ab315" />
 
 
 ## Loyalty Program
-* **Sales Performance:** Higher for Loyalty Members from April 2021 to Aug 2022
+* **Sales Performance:** **Sales higher for Loyalty Members from April 2021 to Aug 2022.** From January 2019 to March 2021, Non-Loyalty Members outperformed Loyalty Members in terms of total sales. However, beginning in April 2021, a sharp decline in Non-Loyalty sales coincided with a rise in Loyalty Member sales—marking a turning point. From that point through August 2022, Loyalty Members consistently outperformed Non-Loyalty Members.
   
 <img width="1430" height="732" alt="image" src="https://github.com/user-attachments/assets/98370f4e-d865-4bf1-a9b5-50801ef51055" />
 
-* **AOV Performance:** Higher for Loyalty Members in Nov 2019, and from June 2021 to Oct 2022
+* **AOV Performance:** **AOV higher for Loyalty Members in Nov 2019, and from June 2021 to Oct 2022.** From January 2019 to May 2021, Non-Loyalty Members consistently had a higher average order value. However, Loyalty Members briefly surpassed them in November 2019 and again more substantially from June 2021 to October 2022.
   
 <img width="1562" height="742" alt="image" src="https://github.com/user-attachments/assets/2e538a34-3165-4af5-aeae-5bed3e3552a9" />
 
-* **Order Count Performance:** Higher for Loyalty Members from Jan 2021 to Aug 2022
+* **Order Count Performance:** **Order Count higher for Loyalty Members from Jan 2021 to Aug 2022.** From January 2019 to December 2020, Non-Loyalty Members placed more orders than Loyalty Members. However, from January 2021 to August 2022, Loyalty Members overtook in order volume. By August 2022, the trend shifted again, with Non-Loyalty Members regaining the lead.
+
   
 <img width="1440" height="736" alt="image" src="https://github.com/user-attachments/assets/19353c96-2e07-4929-bee0-849e3520ad36" />
 
