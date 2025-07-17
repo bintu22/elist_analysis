@@ -39,7 +39,8 @@ Notes:
 * **AOV Performance:**
   * **Although APAC only contributed 13% of sales, the AOV was the highest amongst the regions at $279.** Since APAC consumers are high-value customers, this could present an opportunity to improve sales in APAC.
   * **The top 3 countries in APAC sales were Japan ($1,030,020), Australia ($974,831), and ($343,143).** Since Australia is underperforming relative to other countries in APAC with AOV of $204 compared to the region's overall AOV of $279, there could be an opportunity to improve AOV in Australia.
-* **Delivery Performance:** Across regions, orders took 7.5 days to deliver with little variaion between regions. 
+* **Delivery Performance:** Across regions, orders took 7.5 days to deliver with little variaion between regions.
+  
 <img width="1648" height="298" alt="image" src="https://github.com/user-attachments/assets/96d74100-257d-4979-97fa-80f5d39f339c" />
 
 
@@ -49,10 +50,10 @@ Notes:
 <img width="1484" height="744" alt="image" src="https://github.com/user-attachments/assets/d213ae6c-e2e1-42da-aecb-44f18c688ad2" />
 
 
-* **AOV Performance: MacBook Air and ThinkPadLlaptops drove the highest AOV at over $1,000, while the Samsung Charging Cable Pack had the lowest AOV at just $20**—highlighting a wide value range across Elist’s product portfolio. Despite only making up 7% of Elist orders, the MacBook Air and ThinkPad Laptops contribute to 33% of of sales. Since these products have such a high AOV, it could be worth investigating why their refund rates are double the average of other products.
-* **Order Count Performance:** Within each region, Apple Airpods Headphones were the most popular product sold. 48,402 Apple Airphods Headphones were sold, compared to the lowest selling product, Bose Soundsport Headphones, which only had 27 orders.
+* **AOV Performance: MacBook Air and ThinkPad Laptops drove the highest AOV at over $1,000, while the Samsung Charging Cable Pack had the lowest AOV at just $20**—highlighting a wide value range across Elist’s product portfolio. Despite only making up 7% of Elist orders, the MacBook Air and ThinkPad Laptops contribute to 33% of of sales. Since these products have such a high AOV, it could be worth investigating why their refund rates are double the average of other products.
+* **Order Count Performance: Within each region, Apple Airpods Headphones were the most popular product sold.** 48,402 Apple Airphods Headphones were sold, compared to the lowest selling product, Bose Soundsport Headphones, which only had 27 orders.
 
-<img width="1896" height="428" alt="image" src="https://github.com/user-attachments/assets/2087be53-b8a4-41c9-b9aa-a09b3e1bf7f0" />
+<img width="1732" height="386" alt="image" src="https://github.com/user-attachments/assets/853ac5e9-8692-404f-bda8-928fda5d340e" />
 
 
 ## Loyalty Program
