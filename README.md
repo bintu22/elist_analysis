@@ -67,8 +67,7 @@ Notes:
 
 * **Order Count Performance:** **Order Count higher for Loyalty Members from Jan 2021 to Aug 2022.** From January 2019 to December 2020, Non-Loyalty Members placed more orders than Loyalty Members. However, from January 2021 to August 2022, Loyalty Members overtook in order volume. By August 2022, the trend shifted again, with Non-Loyalty Members regaining the lead.
 
-  
-<img width="1440" height="736" alt="image" src="https://github.com/user-attachments/assets/19353c96-2e07-4929-bee0-849e3520ad36" />
+<img width="1430" height="726" alt="image" src="https://github.com/user-attachments/assets/6d090ade-a296-4c00-aa3f-8931885f2a41" /> 
 
 * **Time to Purchase:** On average, Loyalty Program Members take less time to make a purchase after creating an account than Non-Loyalty Program members (1.6 months vs 2.3 months).
 
